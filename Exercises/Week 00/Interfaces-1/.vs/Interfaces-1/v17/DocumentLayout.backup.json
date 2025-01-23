@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3494928C-1F06-4A0C-9987-1C340DBA64AF}|DoStuff\\DoStuff.csproj|c:\\users\\asger\\documents\\au\\4. semester\\sw4swd-01-softwaredesign\\exercises\\week 00\\interfaces-1\\dostuff\\dodickey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3494928C-1F06-4A0C-9987-1C340DBA64AF}|DoStuff\\DoStuff.csproj|solutionrelative:dostuff\\dodickey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D2413F-4610-4CB2-82EA-24CFA1C4BC4C}|DoStuff.Application\\DoStuff.Application.csproj|c:\\users\\asger\\documents\\au\\4. semester\\sw4swd-01-softwaredesign\\exercises\\week 00\\interfaces-1\\dostuff.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D2413F-4610-4CB2-82EA-24CFA1C4BC4C}|DoStuff.Application\\DoStuff.Application.csproj|solutionrelative:dostuff.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3494928C-1F06-4A0C-9987-1C340DBA64AF}|DoStuff\\DoStuff.csproj|c:\\users\\asger\\documents\\au\\4. semester\\sw4swd-01-softwaredesign\\exercises\\week 00\\interfaces-1\\dostuff\\dohickey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3494928C-1F06-4A0C-9987-1C340DBA64AF}|DoStuff\\DoStuff.csproj|solutionrelative:dostuff\\dohickey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3494928C-1F06-4A0C-9987-1C340DBA64AF}|DoStuff\\DoStuff.csproj|c:\\users\\asger\\documents\\au\\4. semester\\sw4swd-01-softwaredesign\\exercises\\week 00\\interfaces-1\\dostuff\\idothings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3494928C-1F06-4A0C-9987-1C340DBA64AF}|DoStuff\\DoStuff.csproj|solutionrelative:dostuff\\idothings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff.Application\\Program.cs",
+              "RelativeDocumentMoniker": "DoStuff.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff.Application\\Program.cs",
+              "RelativeToolTip": "DoStuff.Application\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:34:15.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoDickey.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\DoDickey.cs",
+              "RelativeDocumentMoniker": "DoStuff\\DoDickey.cs",
+              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\DoDickey.cs",
+              "RelativeToolTip": "DoStuff\\DoDickey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:49:03.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoHickey.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\DoHickey.cs",
+              "RelativeDocumentMoniker": "DoStuff\\DoHickey.cs",
+              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\DoHickey.cs",
+              "RelativeToolTip": "DoStuff\\DoHickey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:28:06.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDoThings.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\IDoThings.cs",
+              "RelativeDocumentMoniker": "DoStuff\\IDoThings.cs",
+              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\IDoThings.cs",
+              "RelativeToolTip": "DoStuff\\IDoThings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:24:28.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
