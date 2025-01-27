@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oURFuCr5vcY=",
+  "dgSpecHash": "+BrFT1dEFUQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\DoStuff.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\DoStuff.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asger\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\asger\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\asger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

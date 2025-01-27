@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-2\\Vehicles\\Vehicles.csproj": {}
+    "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-2\\Vehicles\\Vehicles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-2\\Vehicles\\Vehicles.csproj": {
+    "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-2\\Vehicles\\Vehicles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-2\\Vehicles\\Vehicles.csproj",
+        "projectUniqueName": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-2\\Vehicles\\Vehicles.csproj",
         "projectName": "Vehicles",
-        "projectPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-2\\Vehicles\\Vehicles.csproj",
+        "projectPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-2\\Vehicles\\Vehicles.csproj",
         "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-2\\Vehicles\\obj\\",
+        "outputPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-2\\Vehicles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

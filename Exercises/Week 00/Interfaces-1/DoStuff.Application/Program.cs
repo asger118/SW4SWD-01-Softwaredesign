@@ -21,7 +21,7 @@
 
             do {
                 // Ask the user which instance they want to create
-                Console.ForegroundColor = ConsoleColor.Yellow;
+                
                 Console.WriteLine("Which object do you want to create? Enter 'Hickey' or 'Dickey':");
                 Console.ResetColor();
                 // Trim removes white space before and after input string

@@ -16,3 +16,22 @@ C:\Users\asger\Documents\AU\4. Semester\SW4SWD-01-Softwaredesign\Exercises\Week 
 C:\Users\asger\Documents\AU\4. Semester\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\DoStuff.Application.pdb
 C:\Users\asger\Documents\AU\4. Semester\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\DoStuff.Application.genruntimeconfig.cache
 C:\Users\asger\Documents\AU\4. Semester\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\ref\DoStuff.Application.dll
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\bin\Debug\net6.0\DoStuff.Application.exe
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\bin\Debug\net6.0\DoStuff.Application.deps.json
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\bin\Debug\net6.0\DoStuff.Application.runtimeconfig.json
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\bin\Debug\net6.0\DoStuff.Application.dll
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\bin\Debug\net6.0\DoStuff.Application.pdb
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\bin\Debug\net6.0\DoStuff.dll
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\bin\Debug\net6.0\DoStuff.pdb
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\DoStuff.Application.csproj.AssemblyReference.cache
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\DoStuff.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\DoStuff.Application.AssemblyInfoInputs.cache
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\DoStuff.Application.AssemblyInfo.cs
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\DoStuff.Application.csproj.CoreCompileInputs.cache
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\DoStuff.Application.sourcelink.json
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\DoStuff..78D8B3F2.Up2Date
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\DoStuff.Application.dll
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\refint\DoStuff.Application.dll
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\DoStuff.Application.pdb
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\DoStuff.Application.genruntimeconfig.cache
+C:\Users\asger\Documents\AU\4. Semester\SWD - Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 00\Interfaces-1\DoStuff.Application\obj\Debug\net6.0\ref\DoStuff.Application.dll

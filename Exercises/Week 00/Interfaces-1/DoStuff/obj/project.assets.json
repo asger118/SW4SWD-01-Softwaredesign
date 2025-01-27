@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\DoStuff.csproj",
+      "projectUniqueName": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\DoStuff.csproj",
       "projectName": "DoStuff",
-      "projectPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\DoStuff.csproj",
+      "projectPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\DoStuff.csproj",
       "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\obj\\",
+      "outputPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 00\\Interfaces-1\\DoStuff\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,6 +67,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
