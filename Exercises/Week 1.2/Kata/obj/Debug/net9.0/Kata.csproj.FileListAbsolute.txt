@@ -1,0 +1,12 @@
+C:\Users\asger\Documents\AU\4. Semester\Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 1.2\Kata\obj\Debug\net9.0\Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asger\Documents\AU\4. Semester\Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 1.2\Kata\obj\Debug\net9.0\Kata.AssemblyInfoInputs.cache
+C:\Users\asger\Documents\AU\4. Semester\Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 1.2\Kata\obj\Debug\net9.0\Kata.AssemblyInfo.cs
+C:\Users\asger\Documents\AU\4. Semester\Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 1.2\Kata\obj\Debug\net9.0\Kata.csproj.CoreCompileInputs.cache
+C:\Users\asger\Documents\AU\4. Semester\Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 1.2\Kata\obj\Debug\net9.0\Kata.sourcelink.json
+C:\Users\asger\Documents\AU\4. Semester\Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 1.2\Kata\bin\Debug\net9.0\Kata.deps.json
+C:\Users\asger\Documents\AU\4. Semester\Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 1.2\Kata\bin\Debug\net9.0\Kata.dll
+C:\Users\asger\Documents\AU\4. Semester\Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 1.2\Kata\bin\Debug\net9.0\Kata.pdb
+C:\Users\asger\Documents\AU\4. Semester\Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 1.2\Kata\obj\Debug\net9.0\Kata.dll
+C:\Users\asger\Documents\AU\4. Semester\Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 1.2\Kata\obj\Debug\net9.0\refint\Kata.dll
+C:\Users\asger\Documents\AU\4. Semester\Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 1.2\Kata\obj\Debug\net9.0\Kata.pdb
+C:\Users\asger\Documents\AU\4. Semester\Softwaredesign\SW4SWD-01-Softwaredesign\Exercises\Week 1.2\Kata\obj\Debug\net9.0\ref\Kata.dll

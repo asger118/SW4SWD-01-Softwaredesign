@@ -17,8 +17,8 @@
   "libraries": {
     "Game.Models/1.0.0": {
       "type": "project",
-      "path": "../GameModels/Game.Models.csproj",
-      "msbuildProject": "../GameModels/Game.Models.csproj"
+      "path": "../Game.Models/Game.Models.csproj",
+      "msbuildProject": "../Game.Models/Game.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Application\\Game.Application.csproj",
+      "projectUniqueName": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Application\\Game.Application.csproj",
       "projectName": "Game.Application",
-      "projectPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Application\\Game.Application.csproj",
+      "projectPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Application\\Game.Application.csproj",
       "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Application\\obj\\",
+      "outputPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\Game.Models.csproj": {
-              "projectPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\Game.Models.csproj"
+            "C:\\Users\\asger\\Documents\\AU\\4. Semester\\Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Models\\Game.Models.csproj": {
+              "projectPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Models\\Game.Models.csproj"
             }
           }
         }

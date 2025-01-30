@@ -1,46 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\",
+  "WorkspaceRootPath": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09FC6A4E-F975-4E87-ACB2-1C7ECD92297F}|Game.Application\\Game.Application.csproj|c:\\users\\asger\\documents\\au\\4. semester\\swd - softwaredesign\\sw4swd-01-softwaredesign\\exercises\\week 1.1\\cardgame\\game.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FC6A4E-F975-4E87-ACB2-1C7ECD92297F}|Game.Application\\Game.Application.csproj|c:\\users\\asger\\documents\\au\\4. semester\\softwaredesign\\sw4swd-01-softwaredesign\\exercises\\week 1.1\\cardgame\\game.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FC6A4E-F975-4E87-ACB2-1C7ECD92297F}|Game.Application\\Game.Application.csproj|solutionrelative:game.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|c:\\users\\asger\\documents\\au\\4. semester\\swd - softwaredesign\\sw4swd-01-softwaredesign\\exercises\\week 1.1\\cardgame\\gamemodels\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|solutionrelative:gamemodels\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|c:\\users\\asger\\documents\\au\\4. semester\\swd - softwaredesign\\sw4swd-01-softwaredesign\\exercises\\week 1.1\\cardgame\\gamemodels\\goldcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|solutionrelative:gamemodels\\goldcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|c:\\users\\asger\\documents\\au\\4. semester\\swd - softwaredesign\\sw4swd-01-softwaredesign\\exercises\\week 1.1\\cardgame\\gamemodels\\yellowcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|solutionrelative:gamemodels\\yellowcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|c:\\users\\asger\\documents\\au\\4. semester\\swd - softwaredesign\\sw4swd-01-softwaredesign\\exercises\\week 1.1\\cardgame\\gamemodels\\greencard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|solutionrelative:gamemodels\\greencard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|c:\\users\\asger\\documents\\au\\4. semester\\swd - softwaredesign\\sw4swd-01-softwaredesign\\exercises\\week 1.1\\cardgame\\gamemodels\\bluecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|solutionrelative:gamemodels\\bluecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|c:\\users\\asger\\documents\\au\\4. semester\\swd - softwaredesign\\sw4swd-01-softwaredesign\\exercises\\week 1.1\\cardgame\\gamemodels\\redcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|solutionrelative:gamemodels\\redcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|c:\\users\\asger\\documents\\au\\4. semester\\swd - softwaredesign\\sw4swd-01-softwaredesign\\exercises\\week 1.1\\cardgame\\gamemodels\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|solutionrelative:gamemodels\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|c:\\users\\asger\\documents\\au\\4. semester\\swd - softwaredesign\\sw4swd-01-softwaredesign\\exercises\\week 1.1\\cardgame\\gamemodels\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|solutionrelative:gamemodels\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|c:\\users\\asger\\documents\\au\\4. semester\\swd - softwaredesign\\sw4swd-01-softwaredesign\\exercises\\week 1.1\\cardgame\\gamemodels\\weakplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE30A0-7099-4CC0-8040-24079660CE7A}|GameModels\\Game.Models.csproj|solutionrelative:gamemodels\\weakplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09FC6A4E-F975-4E87-ACB2-1C7ECD92297F}|Game.Application\\Game.Application.csproj|c:\\users\\asger\\documents\\au\\4. semester\\softwaredesign\\sw4swd-01-softwaredesign\\exercises\\week 1.1\\cardgame\\game.application\\game.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09FC6A4E-F975-4E87-ACB2-1C7ECD92297F}|Game.Application\\Game.Application.csproj|solutionrelative:game.application\\game.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 147,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,130 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "YellowCard.cs",
-              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\YellowCard.cs",
-              "RelativeDocumentMoniker": "GameModels\\YellowCard.cs",
-              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\YellowCard.cs",
-              "RelativeToolTip": "GameModels\\YellowCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T15:51:18.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GreenCard.cs",
-              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\GreenCard.cs",
-              "RelativeDocumentMoniker": "GameModels\\GreenCard.cs",
-              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\GreenCard.cs",
-              "RelativeToolTip": "GameModels\\GreenCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T15:51:02.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BlueCard.cs",
-              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\BlueCard.cs",
-              "RelativeDocumentMoniker": "GameModels\\BlueCard.cs",
-              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\BlueCard.cs",
-              "RelativeToolTip": "GameModels\\BlueCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T15:38:52.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\GameManager.cs",
-              "RelativeDocumentMoniker": "GameModels\\GameManager.cs",
-              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\GameManager.cs",
-              "RelativeToolTip": "GameModels\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T13:12:09.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GoldCard.cs",
-              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\GoldCard.cs",
-              "RelativeDocumentMoniker": "GameModels\\GoldCard.cs",
-              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\GoldCard.cs",
-              "RelativeToolTip": "GameModels\\GoldCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T15:38:50.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Deck.cs",
-              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\Deck.cs",
-              "RelativeDocumentMoniker": "GameModels\\Deck.cs",
-              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\Deck.cs",
-              "RelativeToolTip": "GameModels\\Deck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T13:02:50.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WeakPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\WeakPlayer.cs",
-              "RelativeDocumentMoniker": "GameModels\\WeakPlayer.cs",
-              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\WeakPlayer.cs",
-              "RelativeToolTip": "GameModels\\WeakPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T14:15:34.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\Player.cs",
-              "RelativeDocumentMoniker": "GameModels\\Player.cs",
-              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\Player.cs",
-              "RelativeToolTip": "GameModels\\Player.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T13:13:35.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RedCard.cs",
-              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\RedCard.cs",
-              "RelativeDocumentMoniker": "GameModels\\RedCard.cs",
-              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\GameModels\\RedCard.cs",
-              "RelativeToolTip": "GameModels\\RedCard.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T14:41:55.673Z",
+              "Title": "Game.Application",
+              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Application\\Game.Application.csproj",
+              "RelativeDocumentMoniker": "Game.Application\\Game.Application.csproj",
+              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Application\\Game.Application.csproj",
+              "RelativeToolTip": "Game.Application\\Game.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T09:28:52.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Application\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Application\\Program.cs",
               "RelativeDocumentMoniker": "Game.Application\\Program.cs",
-              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\SWD - Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\asger\\Documents\\AU\\4. Semester\\Softwaredesign\\SW4SWD-01-Softwaredesign\\Exercises\\Week 1.1\\CardGame\\Game.Application\\Program.cs",
               "RelativeToolTip": "Game.Application\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T13:49:36.613Z",
               "EditorCaption": ""
