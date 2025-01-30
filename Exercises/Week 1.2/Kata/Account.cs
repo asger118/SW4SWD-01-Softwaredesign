@@ -3,6 +3,7 @@
 public class Account
 {
     public double Balance { get; private set; }
+    private List<IStatement> _statements = new List<IStatement>();
 
     public Account(double balance)
     {
@@ -19,6 +20,11 @@ public class Account
         {
             throw new ArgumentException("Insufficient funds");
         }
+        else if (amount == 0)
+        {
+            throw new ArgumentException("Amount must be greater than zero");
+        }
+        _statements.Add(new WithdrawStatement(amount, Balance, Balance - amount));
 
         Balance -= amount;
 
@@ -35,6 +41,7 @@ public class Account
         {
             throw new ArgumentException("Amount must be greater than zero");
         }
+        _statements.Add(new DepositStatement(amount, Balance, Balance + amount));
 
         Balance += amount;
     }
