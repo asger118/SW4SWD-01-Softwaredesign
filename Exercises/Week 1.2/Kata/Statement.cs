@@ -2,7 +2,7 @@ using System;
 
 namespace Kata;
 
-public class IStatement
+public class Statement
 {
     public DateTime Date { get; protected set; }
     public double TransferAmount { get; protected set; }

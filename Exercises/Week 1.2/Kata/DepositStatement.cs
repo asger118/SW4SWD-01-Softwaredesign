@@ -2,14 +2,14 @@ using System;
 
 namespace Kata;
 
-public class DepositStatement : IStatement
+public class DepositStatement : Statement
 {
-    public DepositStatement(double transferAmount, double before, double after)
+    public DepositStatement(double transferAmount, double balanceBefore, double balanceAfter)
     {
         Date = DateTime.Now;
         TransferAmount = transferAmount;
-        BalanceBefore = before;
-        BalanceAfter = after;
+        BalanceBefore = balanceBefore;
+        BalanceAfter = balanceAfter;
         StatementType = "Deposit";
     }
 }

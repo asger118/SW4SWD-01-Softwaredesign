@@ -2,14 +2,14 @@ using System;
 
 namespace Kata;
 
-public class WithdrawStatement : IStatement
+public class WithdrawStatement : Statement
 {
-    public WithdrawStatement(double transferAmount, double before, double after)
+    public WithdrawStatement(double transferAmount, double balanceBefore, double balanceAfter)
     {
         Date = DateTime.Now;
         TransferAmount = transferAmount;
-        BalanceBefore = before;
-        BalanceAfter = after;
+        BalanceBefore = balanceBefore;
+        BalanceAfter = balanceAfter;
         StatementType = "Withdraw";
     }
 }
