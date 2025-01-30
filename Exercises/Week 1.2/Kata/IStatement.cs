@@ -4,9 +4,9 @@ namespace Kata;
 
 public class IStatement
 {
-    protected DateTime _date;
-    protected double _transferAmount;
-    protected double _before;
-    protected double _after;
-    protected string? _statementType;
+    public DateTime Date { get; protected set; }
+    public double TransferAmount { get; protected set; }
+    public double BalanceBefore { get; protected set; }
+    public double BalanceAfter { get; protected set; }
+    public string? StatementType { get; protected set; }
 }

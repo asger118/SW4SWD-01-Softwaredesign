@@ -6,10 +6,10 @@ public class WithdrawStatement : IStatement
 {
     public WithdrawStatement(double transferAmount, double before, double after)
     {
-        _date = DateTime.Now.Date;
-        _transferAmount = transferAmount;
-        _before = before;
-        _after = after;
-        _statementType = "Withdraw";
+        Date = DateTime.Now;
+        TransferAmount = transferAmount;
+        BalanceBefore = before;
+        BalanceAfter = after;
+        StatementType = "Withdraw";
     }
 }
