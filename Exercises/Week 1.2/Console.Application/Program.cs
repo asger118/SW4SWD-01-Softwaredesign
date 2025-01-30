@@ -1,4 +1,5 @@
 ﻿using Kata;
+
 class Program
 {
     static void Main(string[] args)
@@ -8,8 +9,9 @@ class Program
         account.Deposit(500);
         account.Withdraw(200);
         account.Transfer(300, account2);
-        account.PrintAllStatements();
+        account.PrintStatementsByFilter(Account.FilterType.All);
 
-        account2.PrintAllStatements();
+        account2.PrintStatementsByFilter(Account.FilterType.Withdraw);
+        account.PrintStatementsByFilter(Account.FilterType.Date, DateTime.Now);
     }
 }
