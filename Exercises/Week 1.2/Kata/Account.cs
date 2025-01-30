@@ -5,7 +5,7 @@ public class Account
     static int _idCounter = 0;
     public double Balance { get; private set; }
     public int Id { get; private set; }
-    private readonly List<IStatement> _statements = new List<IStatement>();
+    private readonly List<Statement> _statements = new List<Statement>();
 
     public Account(double balance)
     {
